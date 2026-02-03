@@ -1,0 +1,105 @@
+Loop Link – AI‑driven plattform för
+cirkulär ekonomi i flera branscher
+1. Din idé i ett nötskal
+LoopLink är en AI‑driven plattform som skapar cirkulära material- och
+komponentflöden mellan flera tekniska branscher: bygg, vatten/VA, energiteknik
+och fastighetsbolag. Plattformen förutser spill och överskott, matchar resurser
+mellan aktörer, skapar digitala produktpass och simulerar kostnader 10–20 år framåt.
+Målet är att minska avfall, sänka kostnader och stärka hållbarhetsarbetet i hela
+värdekedjan.
+2. Bakgrund
+Vilket problem löser idén?
+I bygg-, VA-, energi- och fastighetssektorn uppstår stora mängder restmaterial,
+reservdelar och tekniska komponenter som fortfarande fungerar men ändå slängs.
+Exempel:
+● byggprojekt genererar spill av trä, betong, stål, glas
+● VA‑bolag byter pumpar, ventiler och styrsystem i förebyggande syfte
+● energibolag byter ut solpaneler, kablage och värmepumpar
+● fastighetsbolag har stora mängder komponenter som blir liggande i förråd
+Samtidigt saknas ett gemensamt system som:
+● kopplar ihop dessa branscher
+● förutser överskott innan det uppstår
+● matchar material och komponenter mellan aktörer
+● ger långsiktiga kostnadssimuleringar
+● automatiserar klimat- och hållbarhetsrapportering
+Hur vanligt är problemet?
+Problemet är mycket frekvent:
+● byggsektorn står för 35–40 % av Sveriges avfall
+● VA‑ och energibolag byter tusentals komponenter årligen
+● fastighetsbolag hanterar stora mängder material vid renoveringar
+Personlig motivation
+Du drivs av att kombinera hållbarhet, teknik och praktiska lösningar som gör verklig
+skillnad. LoopLink förenar cirkulär ekonomi med AI och kan användas av flera
+branscher i Linköping — inklusive företag som NGL Teknik och deras kunder.
+Varför är ämnet viktigt?
+Cirkulär ekonomi är avgörande för att minska klimatpåverkan och resursförbrukning.
+Samtidigt behöver tekniska branscher verktyg som gör hållbarhet lönsamt, enkelt
+och mätbart. LoopLink möter alla dessa behov.
+3. Data och AI‑tekniker
+Datakällor
+LoopLink använder data från:
+● byggprojekt (materiallistor, ritningar, tidsplaner)
+● VA‑system (pumpar, ventiler, driftdata)
+● energisystem (solpaneler, värmepumpar, styrsystem)
+● fastighetsbolag (drift, underhåll, komponentregister)
+● återvinningscentraler
+● digitala produktpass enligt EU‑krav
+● historiska prisdata för material och energi
+● livslängdsdata för tekniska komponenter
+● geografisk data för logistikoptimering
+AI‑tekniker
+● Prediktionsmodeller för att förutse spill och utbytesbehov
+● Rekommendationssystem som matchar material och komponenter mellan
+branscher
+● Bildigenkänning för att identifiera delar via mobilkamera
+● Optimeringsalgoritmer för logistik och ruttplanering
+● Simuleringsmodeller för kostnader och klimatpåverkan 10–20 år framåt
+● NLP för att tolka tekniska beskrivningar och projektdata
+4. Hur används den
+Användare
+● byggbolag
+● VA‑ och vattenbolag
+● energiteknikföretag
+● fastighetsbolag
+● kommuner
+● återvinningsaktörer
+● privatpersoner (via LoopLink‑appen)
+Användningssituationer
+● Byggbolag: AI förutser spill → matchas med andra projekt eller kommunens
+behov.
+● VA‑bolag: utbytta pumpar och ventiler matchas med andra aktörer eller
+renoveringsföretag.
+● Energibolag: solpaneler, kablage och styrsystem återbrukas eller säljs
+vidare.
+● Fastighetsbolag: komponenter matchas mellan fastigheter och kostnader
+simuleras 10–20 år framåt.
+● Kommuner: får realtidsdata och automatiserad CO₂‑rapportering.
+● Privatpersoner: lämnar in material och får LoopLink Credits.
+Berörda perspektiv
+● Tekniker: får snabb tillgång till rätt delar.
+● Projektledare: minskar spill och kostnader.
+● Miljöstrateger: får bättre rapportering.
+● Invånare: får incitament att återvinna.
+● Återvinningsföretag: får bättre planering.
+5. Utmaningar
+LoopLink löser mycket, men inte allt:
+● kräver att aktörer delar data
+● vissa komponenter får inte återbrukas av säkerhetsskäl
+● AI behöver stora datamängder
+● logistik kan vara svår i glesbygd
+● digitala produktpass är fortfarande under utveckling
+6. Vad händer nu?
+LoopLink kan växa i flera steg:
+● MVP: matchning av material och komponenter mellan bygg, VA och energi
+● Pilotprojekt: t.ex. med NGL Sweden och ett byggföretag
+● Integrationer: koppling till kommunala system och branschspecifika verktyg
+● Avancerad simulering: full 20‑årsmodell för kostnader, CO₂ och
+materialflöden
+● Nationell expansion: regionala cirkulära hubbar
+● Internationell skalning: Norden → EU
+7. Tack
+Projektet inspireras av:
+● forskning om cirkulär ekonomi
+● EU:s arbete med digitala produktpass
+● branschinitiativ som Loopfront och NGL SWEDEN(Linköping)
+● insikter från bygg-, VA-, energi- och fastighetsbranschen
