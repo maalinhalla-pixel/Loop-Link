@@ -1,0 +1,1 @@
+[Loop Link – AI‑driven plattform för cirkulär ekonomi i flera branscher.pdf](https://github.com/user-attachments/files/25046541/Loop.Link.AI.driven.plattform.for.cirkular.ekonomi.i.flera.branscher.pdf)
